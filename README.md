@@ -1,1 +1,1 @@
-This repository will hold my personal website. It currently contains a minimal `index.html` page to verify that GitHub Pages works.
+This repository is a fresh start for my personal site. Right now it only contains a single `index.html` page for testing GitHub Pages.
