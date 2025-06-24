@@ -1,3 +1,3 @@
 # midnight-secret.github.io
 
-This repository has been cleared so a new personal website can be built from scratch. Only this README remains.
+This repository will hold my personal website. It currently contains a minimal `index.html` page to verify that GitHub Pages works.
